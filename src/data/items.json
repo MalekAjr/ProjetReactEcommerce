@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Blue T-Shirt",
+    "price": 10.99,
+    "imgUrl": "/imgs/img1men.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "/imgs/img1womenmo.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "/imgs/img2men.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "/imgs/img2women.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/img3men.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "/imgs/img3women.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "/imgs/img4men.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "/imgs/img4women.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "/imgs/img5men.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "/imgs/img5women.jpg"
+  }
+]

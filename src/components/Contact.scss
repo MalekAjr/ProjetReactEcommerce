@@ -1,0 +1,100 @@
+/* Assuming you have a CSS file to handle the styling */
+
+.contactpage {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  
+    header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+
+  main {
+    padding: 20px;
+  }
+  
+  .contact-info {
+    text-align: center;
+  }
+  
+  .contact-info h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .contact-info p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .contact-item {
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+  }
+  
+  .contact-item i {
+    font-size: 20px;
+    margin-right: 10px;
+  }
+  
+  .contact-item p {
+    font-size: 16px;
+  }
+  
+  .contact-form {
+    margin-top: 30px;
+  }
+  
+  .contact-form h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-size: 18px;
+    display: block;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  textarea {
+    resize: vertical;
+  }
+  
+  .submit-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #555;
+  }
+
+}
